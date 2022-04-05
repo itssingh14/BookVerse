@@ -1,0 +1,89 @@
+.userImg{
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    margin: 0 0.5rem;
+}
+
+.navBar{
+    background-color: #DF362D;
+}
+
+.navContainer{
+    padding: 0 2rem;
+}
+
+.bookStore{
+    color: white;
+    font-weight: 700;
+}
+
+.searchRow{
+    background-color: white;
+    padding: 0.3rem 0.2rem;
+    border-radius: 1rem;
+    margin-right: 2.5rem;
+}
+
+.search{
+    border: none;
+    outline: none;
+    caret-color: #DF362D;
+}
+
+.userOptions a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.userNav{
+    margin-right: 5rem;
+}
+
+.dropBtn button{
+    background-color: #DF362D !important;
+    border: none !important;
+    font-weight: 400;
+    box-shadow: none !important;
+}
+
+.cartBadge{
+    background-color: #DF362D !important;
+    margin-top: 0.3rem;
+    cursor: pointer;
+}
+
+.cartQuant{
+    background-color: #FDB750;
+    padding: 0.1rem 0.5rem;
+    font-size: 1rem;
+    margin-left: 0.1rem;
+    border-radius: 50%;
+}
+
+@media (max-width : 500px) {
+    .searchRow{
+        margin-top: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .searchCol{
+        text-align: right;
+    }
+
+    .dropBtn{
+        margin-top: 1rem;
+    }
+
+    .cartBadge{
+        margin-top: -2.3rem;
+    }
+
+    .userOptions{
+        margin-top: 1rem;
+        margin-left: auto;
+        margin-left: 1rem;
+    }
+}

@@ -1,0 +1,43 @@
+.loginContainer{
+    padding: 2rem 10rem;
+    margin-top: 2rem;
+    text-align: center;
+    width: 55%;
+}
+
+.loginHead{
+    color: #DF362D;
+    margin-bottom: 2rem;
+}
+
+.loginCard{
+    padding: 2rem 3rem;
+}
+
+.loginInput{
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    caret-color: #DF362D;
+}
+
+.loginBtn{
+    background-color: #DF362D;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    padding: 0.5rem 0;
+    width: 85%;
+    margin-top: 1rem;
+}
+
+.loginBtn:hover{
+    background-color: #FDB750;
+}
+
+@media (max-width : 500px) {
+    .loginContainer{
+        padding: 0;
+        width: 100%;
+    }
+}

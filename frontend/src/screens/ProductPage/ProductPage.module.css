@@ -1,0 +1,65 @@
+.pageContainer{
+    margin-top: 2rem;
+}
+
+.imageCol{
+    text-align: center;
+}
+
+.bookImg{
+    width: 25rem;
+    height: 35rem;
+}
+
+.author{
+    color: grey;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+
+.price{
+    color: #DF362D;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin: 1rem 0;
+}
+
+.btnRow{
+    padding: 0 15rem 0 0;
+    margin: 1rem 0;
+}
+
+.desc{
+    margin-bottom: 2rem;
+}
+
+.customBtn{
+    border-radius: 2rem;
+    font-size: 1.05rem;
+    background-color: #FF9636;
+    border: none;
+    font-weight: 700;
+    width: 100%;
+}
+
+.customBtn:hover{
+    background-color: #FDB750;
+}
+
+.outofStock{
+   color: #DF362D;
+   font-weight: 700;
+   font-size: 1.5rem;
+}
+
+.selectCol select{
+    width: 22%;
+}
+
+@media (max-width : 500px){
+    .bookImg{
+        margin: 1.5rem 0;
+        width: 15rem;
+        height: 25rem;
+    }
+}

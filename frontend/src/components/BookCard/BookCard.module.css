@@ -1,0 +1,35 @@
+.col{
+    margin-bottom: 1.7rem;
+}
+
+.card{
+    text-align: center;
+    border: none;
+}
+
+.bookImg{
+    height: 13rem;
+    width: 10rem;
+    margin-bottom: 1rem;
+}
+
+.price{
+    color: #DF362D;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.author{
+    color: grey;
+    font-size: 0.9rem;
+    margin-bottom: 0.1rem;
+}
+
+.name{
+    font-weight: 600;
+    color: black;
+}
+
+.link{
+    text-decoration: none;
+}

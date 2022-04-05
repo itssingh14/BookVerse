@@ -1,0 +1,26 @@
+.list{
+    list-style: none;
+}
+
+.listTitle{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #DF362D;
+}
+
+.category{
+    margin-bottom: 1rem;
+    cursor: default;
+}
+
+.category:hover{
+    color: #DF362D;
+    font-weight: 500;
+}
+
+@media (max-width : 500px) {
+    .list{
+        display: none;
+    }
+}

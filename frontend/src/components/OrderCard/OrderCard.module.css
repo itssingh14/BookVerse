@@ -1,0 +1,17 @@
+.orderContainer{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.modalTitle{
+    font-size: 1.2rem;
+}
+
+.modalPrice{
+    font-size: 1.2rem;
+    color: #DF362D;
+    font-weight: 700;
+}
