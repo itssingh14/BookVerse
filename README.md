@@ -1,4 +1,4 @@
-# MERN-BookApp
+# BookVerse
 ![Login](https://user-images.githubusercontent.com/48068421/161810969-6de645fb-0308-464e-adf2-eeceb5af7f44.png)
 ![signup](https://user-images.githubusercontent.com/48068421/161810886-6c2c5755-6305-4bde-a9b8-58689c335c89.png)
 ![UHome](https://user-images.githubusercontent.com/48068421/161810894-1522adb7-ba3d-4fac-9ed2-2bc023ff9c04.png)
